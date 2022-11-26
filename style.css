@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-style: Monospace;
+    margin-left: 40px;
+    margin-top: 50px;
+  }
+  #head{
+    color: white;
+  }
+  #counterText {
+    color: white;
+  }
+  #decrement {
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    height: 35px;
+    width: 100px;
+  }
+  #increment {
+    background-color: white;
+    color: black;
+    height: 35px;
+    width: 100px;
+  }
+  #clear {
+    background-color: black;
+    border-color: white;
+    color: white;
+    width: 100px;
+    height: 30px;
+  }
+  p {
+    color: white;
+    padding-bottom: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5px;
+    width: fit-content;
+  }
